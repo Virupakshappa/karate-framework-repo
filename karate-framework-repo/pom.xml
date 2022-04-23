@@ -13,7 +13,6 @@
 		<antlr.version>4.9.2</antlr.version>
 		<graal.version>21.2.0</graal.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>com.intuit.karate</groupId>
