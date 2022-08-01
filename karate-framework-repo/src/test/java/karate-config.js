@@ -10,6 +10,8 @@ baseUrl:'https://gorest.co.in/',
 tokenID: 'e31d7ca4153ef9d12406f893af0d1dcd2e38fa53ae35edd9acb0f6cfd01ee910',     
 myVar: 'First Karate project' 
 }   
+	config.paths = karate.read('file:../../../Downloads/paths.json');
+
 if(env == 'qa') {
 	
 }
